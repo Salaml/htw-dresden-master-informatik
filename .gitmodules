@@ -1,0 +1,9 @@
+[submodule "sensor-networks"]
+	path = sensor-networks
+	url = https://github.com/Salaml/sensor-networks.git
+[submodule "discrete-simulation"]
+	path = discrete-simulation
+	url = https://github.com/Salaml/discrete-simulation.git
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/Salaml/algorithms.git
